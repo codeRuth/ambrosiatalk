@@ -1,0 +1,29 @@
+<!doctype html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="/static/style.css" type="text/css">
+    <title>Ambrosia</title>
+</head>
+
+<body>
+
+<h1>Upload new File</h1>
+    <form action="" method = POST enctype = multipart/form-data>
+        <h3>
+            <input type = file name = file>
+            <input type = submit value = Upload>
+        </h3>
+
+    </form>
+
+    <ul style="list-style-type:none">
+        <h3>Directory Listing</h3>
+        {% for j in s %}
+            <li> {{ j }}</li>
+        {% endfor %}
+    </ul>
+    <br>
+
+</body>
+</html>

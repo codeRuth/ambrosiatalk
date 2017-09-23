@@ -1,0 +1,21 @@
+body{
+    font-family: monospace:10
+}
+
+
+.center-logo-symbol{
+    font-family:"Arial","Helvetica Neue",sans-serif;
+    font-size:144pt;
+    opacity:0.6;
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    -webkit-transform:translate(-50%,-50%);
+    transition:0.0s ease-in;
+}
+
+.center-logo-symbol:hover
+{
+    opacity:0.9;
+}
