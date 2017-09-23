@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Ambrosia/.idea/FlaskFileUpload.iml" filepath="$PROJECT_DIR$/../Ambrosia/.idea/FlaskFileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ambrosiatalk/.idea/ambrosiatalk.iml" filepath="$PROJECT_DIR$/../ambrosiatalk/.idea/ambrosiatalk.iml" />
     </modules>
   </component>
 </project>
